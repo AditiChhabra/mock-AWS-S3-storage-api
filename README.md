@@ -40,7 +40,7 @@ Why? Because using the *real* AWS S3 for every tiny test is slow, needs an inter
 
 ## API Endpoints
 
-You can use a tool like **Postman** or **Insomnia** to test these endpoints.
+You can use a tool like **Postman** to test these endpoints.
 
 ### 1. Upload a File
 "Uploads" a new text file to the `my-s3-bucket` directory.
